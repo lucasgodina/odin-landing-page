@@ -1,3 +1,3 @@
 # Landing Page
-This is the project: Landing Page from the course The Odin Project.
+This project is part of the Foundations Curriculum of The Odin Project course.
 - Link: https://www.theodinproject.com/lessons/foundations-landing-page
